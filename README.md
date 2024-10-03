@@ -8,3 +8,4 @@ Dimecres 2 d'octubre de 2024
 
 ## Command Cheat Sheet
 
+'''git add'''
