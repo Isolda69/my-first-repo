@@ -14,3 +14,9 @@ git add
 ```bash
 git commit
 ```
+```bash
+git push
+```
+```bash
+git pull
+```
